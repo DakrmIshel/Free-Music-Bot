@@ -1,0 +1,6 @@
+owner=457203430193102862
+prefix=$
+game=$play Created By DarkMishel
+stayinchannel=true
+songinstatus=false
+token=NTgxNjg0MzczNjgyNjUxMTM2.XOi2hg.9KRllhDyDAF1jhtX0qmCy5jvWyc
